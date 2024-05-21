@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Data><Client><Id>1</Id><Name>New Supplier</Name></Client><Shop><Id>1</Id><Name>New Supplier</Name><Address>dsdfsd</Address></Shop><Bouquet><Id>1</Id><Flower>[Flower(id=1, name='Роза', price=10, flower_count=100, shop_id=1), Flower(id=2, name='Тюльпан', price=8, flower_count=200, shop_id=1), Flower(id=3, name='Тюл', price=8, flower_count=300, shop_id=1)]<Price>1000</Price><Shop_id>1</Shop_id></Flower></Bouquet></Data>
